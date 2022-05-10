@@ -18,3 +18,8 @@ In this report, I have created the following KPIs.
 9. Affected Employees
 10. Secured Employees
 11. Find out Breach Employees
+
+## Author
+Pallav Thapliyal: https://www.linkedin.com/in/pallav-thapliyal-160829185/
+
+If you like this project, please do give the star. If you have any suggestions or issues, please drop a message.
